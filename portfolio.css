@@ -1,0 +1,11 @@
+
+.border {
+     border-radius: 50%;
+     width:100px;
+     height:100px;
+     top:20px;
+     right:20px;
+     position:absolute
+     left:0;
+     
+}
