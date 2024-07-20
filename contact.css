@@ -1,0 +1,39 @@
+.text{
+    color:rgb(233, 129, 25);
+    text-align:center;
+    font-family: roboto;
+    font-size:bold;
+    font-style:italic;
+    background-color:black;
+    background-size: cover;
+    background-position: center;
+
+}
+.text1{
+    color:rgb(233, 129, 25);
+    text-align:center;
+    font-family: roboto;
+    font-size:bold;
+    font-style:italic;
+    background-color:black;
+    background-size: cover;
+    background-position: center;
+}
+.img{
+    background-color:black;
+    height:100vh;
+}
+.pad{
+    padding:200px;
+}
+.navigation{
+    font-size: 2em;
+    color: #f2eeee;
+    text-decoration: none;
+    margin-right: 40px;
+    font-weight: 500;
+    transition: .3s;
+}
+.navigation a:hover {
+    color: #da881d;
+}
